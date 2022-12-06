@@ -1,10 +1,12 @@
 <!-- markdownlint-disable MD033 MD041 -->
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
-<br />
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Daniel Gessese. I do ❤️ open source!" src="./assets/gh-readme-header.png" /></a></p>
+<br/>
 
-<br />
+<h1> Hi,  I'm Daniel Gessese! I do ❤️ open source! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+<br/>
+
 
 I'm a self-taught passionate Database Adminstrator, FrontEnd/BackEnd developer from Ethiopia
 
