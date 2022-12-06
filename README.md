@@ -1,16 +1,13 @@
 <!-- markdownlint-disable MD033 MD041 -->
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<br />
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Daniel Gessese. I do ❤️ open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-<p align="center">
-  <img src=https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/>
-</p>
+I'm a self-taught passionate Database Adminstrator, FrontEnd/BackEnd developer from Ethiopia
+
 <br />
 
 
@@ -21,6 +18,7 @@
 
 ### `Hello` I'm Daniel Gessese.
 ![](https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic) 
+![](https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/)
 
 ![](https://img.shields.io/github/followers/Danigy?style=social) 
 ![](https://img.shields.io/twitter/follow/Danigy?style=social)
@@ -32,7 +30,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 ---
 
 
-# Biography
+## Biography
 
 ### :books: I'm currently learning
 
@@ -134,3 +132,6 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 | ![Danigy's github stats](https://github-readme-stats.vercel.app/api?username=Danigy&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Simplified view](https://github-readme-streak-stats.herokuapp.com/?user=Danigy) |
 
 <br />
+
+# ![Header](./img/footer.svg)
+
