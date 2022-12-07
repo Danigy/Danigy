@@ -133,6 +133,16 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 | --- | --- |
 | ![Danigy's github stats](https://github-readme-stats.vercel.app/api?username=Danigy&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Simplified view](https://github-readme-streak-stats.herokuapp.com/?user=Danigy) |
 
+
+<details>
+<summary> <b>📊 Some GitHub stats </b></summary>
+<p align="center">
+<!--  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=Danigy&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/> 
+-->
+<img align="Left" width="650" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danigy&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+</p>
+</details>
+
 <br />
 
 # ![Header](./img/footer.svg)
