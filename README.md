@@ -6,7 +6,17 @@
 <h1> Hi,  I'm Daniel Gessese! I do ❤️ open source! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <br/>
-
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic"/>
+	<img src="https://visitor-badge.glitch.me/badge?page_id=Danigy/blob/master/"/>
+	<img src="https://img.shields.io/github/followers/Danigy?style=social"/>
+	<img src="https://img.shields.io/twitter/follow/Danigy?style=social"/>
+	<img src="https://img.shields.io/badge/language-python-blue?style"/>
+	<img src="https://img.shields.io/github/license/Danigy/Danigy"/>
+	<img src="https://img.shields.io/github/stars/Danigy/Danigy"/>
+	<img src="https://img.shields.io/github/forks/Danigy/Danigy"/>
+	<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
 
 I'm a self-taught passionate Database Adminstrator, FrontEnd/BackEnd developer from Ethiopia
 
@@ -19,11 +29,7 @@ I'm a self-taught passionate Database Adminstrator, FrontEnd/BackEnd developer f
 <img align="right" width="240" src="http://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.png"/>
 
 ### `Hello` I'm Daniel Gessese.
-![](https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic) 
-![](https://visitor-badge.glitch.me/badge?page_id=Danigy./blob/master/)
 
-![](https://img.shields.io/github/followers/Danigy?style=social) 
-![](https://img.shields.io/twitter/follow/Danigy?style=social)
 
 My username is @danielgessese:
 ```
