@@ -3,16 +3,18 @@
 
 <br/>
 
-<h1> Hi,  I'm Daniel Gessese! I do ❤️ open source! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi,  I'm Daniel Gessese! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <br/>
+
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=Danigy&color=00a0a0&style=plastic"/>
 	<img src="https://visitor-badge.glitch.me/badge?page_id=Danigy/blob/master/"/>
 	<img src="https://img.shields.io/github/followers/Danigy?style=social"/>
 	<img src="https://img.shields.io/twitter/follow/Danigy?style=social"/>
-	<img src="https://img.shields.io/badge/language-python-blue?style"/>
-	<img src="https://img.shields.io/github/license/Danigy/Danigy"/>
+	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
+	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
+	<img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">	
 	<img src="https://img.shields.io/github/stars/Danigy/Danigy"/>
 	<img src="https://img.shields.io/github/forks/Danigy/Danigy"/>
 	<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
@@ -167,7 +169,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <img align="Left" width="650" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danigy&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 </p>
 </details>
-
+This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
 <br />
 
 # ![Header](./img/footer.svg)
