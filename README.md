@@ -173,7 +173,10 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
 <br/>
 
-If this helped you may help me as :) <p><a href="https://www.buymeacoffee.com/dnlmd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /> <p/>
+If this helped you may help me as :) <p>
+	<a href="https://www.buymeacoffee.com/dnlmd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Danigy" />
+	<a href="https://www.patreon.com/user?u=84162601"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="Danigy" /> <p/>
+	 
 <br />
 # ![Header](./img/footer.svg)
 <br/>
