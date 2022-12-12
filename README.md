@@ -18,6 +18,7 @@
 	<img src="https://img.shields.io/github/stars/Danigy/Danigy"/>
 	<img src="https://img.shields.io/github/forks/Danigy/Danigy"/>
 	<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+	 
 </p>
 
 I'm a self-taught passionate Database Adminstrator, FrontEnd/BackEnd developer from Ethiopia
@@ -170,7 +171,10 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 </p>
 </details>
 This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
+<br/>
+
+If this helped you may help me as :) <p><a href="https://www.buymeacoffee.com/dnlmd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /> <p/>
 <br />
-
 # ![Header](./img/footer.svg)
-
+<br/>
+This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
