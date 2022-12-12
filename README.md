@@ -178,7 +178,8 @@ If this helped you may help me as :) <p>
 	<a href="https://www.patreon.com/user?u=84162601"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="Danigy" /> <p/>
 	 
 <br />
-# ![Header](./img/footer.svg)
+		
+		![Header](./img/footer.svg)
 <br/>
 
 This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
