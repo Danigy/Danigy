@@ -179,7 +179,7 @@ If this helped you may help me as :) <p>
 	 
 <br />
 		
-		![Header](./img/footer.svg)
-<br/>
+![Header](./img/footer.svg)
+
 
 This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
