@@ -170,7 +170,7 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <img align="Left" width="650" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danigy&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 </p>
 </details>
-This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
+
 <br/>
 
 If this helped you may help me as :) <p>
@@ -180,4 +180,5 @@ If this helped you may help me as :) <p>
 <br />
 # ![Header](./img/footer.svg)
 <br/>
+
 This project is licensed under [GNU General Public License](https://github.com/Danigy/blob/master/LICENSE).
