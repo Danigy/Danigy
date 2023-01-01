@@ -178,8 +178,8 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 <p align="center">
 	<a href="https://www.buymeacoffee.com/dnlmd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Danigy" />
 	<a href="https://www.patreon.com/user?u=84162601"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="Danigy" /> 
-	<a href="https://ko-fi.com/danigy"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="210" alt="Ko-Fi" /><p/>
-	
+	<a href="https://ko-fi.com/danigy"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="210" alt="Ko-Fi" />
+	<a href="https://www.paypal.com/sdk/js?client-id=AVo7wpHDlIBnFDnXB3Iaj86h-2K6k_aJVA6ZRyz-6mnTVsZXB4F6QlDCVi6PayLRIxRNTgWNolt2tjPJ&vault=true&intent=subscription" data-sdk-integration-source="button-factory"> <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Paypal" /><p/>
 <br/>	
 <p align="center">
 	<a href="https://www.youtube.com/channel/UCyafpt5H8K5wBYpy-re22mQ"> <img align="center" src="https://img.shields.io/youtube/views/zZJMM4V5bSE?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge" height="50" width="410" alt="YouTube Channel Link" target="_blank" /></a>
