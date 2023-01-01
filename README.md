@@ -182,9 +182,9 @@ Embrace your dreams, and, whatever happens protect your honor...as SOLDIER
 	
 <br/>	
 <p align="center">
-	<a href="https://t.me/danielgessese"> <img align="center" src="https://img.shields.io/badge/Join my Telegram channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="50" width="410" alt="Telegram Channel Link" /><a/><p/>
+	<a href="https://www.youtube.com/channel/UCyafpt5H8K5wBYpy-re22mQ"> <img align="center" src="https://img.shields.io/youtube/views/zZJMM4V5bSE?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge" height="50" width="410" alt="YouTube Channel Link" target="_blank" /></a>
+	<a href="https://t.me/danielgessese"> <img align="center" src="https://img.shields.io/badge/Join my Telegram channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="50" alt="Telegram Channel Link" /><a/><p/>
 	
-
 	 
 <br />
 		
